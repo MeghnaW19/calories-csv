@@ -1,0 +1,170 @@
+ingredient,qty,uom,calorie
+Fennel seeds,100,gm,31
+Asafoetida,100,gm,297
+Holy Basil,100,gm,50
+Bay leaf,100,gm,300
+Black peppercorns,100,gm,251
+Black salt,100,gm,0
+Butter,100,gm,717
+Caraway seed,100,gm,119
+Black Cardamom,100,gm,311
+Green cardamom,100,gm,311
+Carom seed,100,gm,304
+Cinnamon stick,100,gm,0
+Cloves,100,gm,274
+Coriander seed,100,gm,340
+Coriander leaves,100,gm,23
+Cumin seed,100,gm,317
+Curry leaf,100,gm,108
+Dill leaves,100,gm,43
+Dried mango powder,100,gm,60
+Dry Pomegranate seeds,spices
+Dried red chili,100,gm,320
+Dried fenugreek leaves,100,gm,43
+Fenugreek seed,100,gm,323
+Dried ginger powder,100,gm,240
+Honey,100,gm,304
+Jaggery,100,gm,383
+Mace,100,gm,445
+Mint leaves,100,gm,45
+Milk,100,gm,42
+Mustard seed,100,gm,508
+Nigella seed,100,gm,345
+Nutmeg,100,gm,525
+Red chilli powder,100,gm,282
+Rock salt,100,gm,0
+Rose water,100,gm,0
+Saffron,100,gm,310
+Salt,100,gm,0
+Star anise,100,gm,0
+Sugar,100,gm,387
+Tamarind,100,gm,200
+Turmeric,100,gm,353
+Vinegar,100,gm,18
+Amaranth leaves,100,gm,371
+Ash gourd,100,gm,13
+Banana flower,100,gm,40
+Beetroot,100,gm,43
+Capsicum,100,gm,31
+Bitter gourd,100,gm,34
+Bottlegourd,100,gm,206
+Beans,100,gm,118
+Cabbage,100,gm,25
+Carrot,100,gm,41
+Cauliflower,100,gm,25
+Cluster beans,100,gm,35
+Coconut,100,gm,354
+Colocasia leaves,100,gm,25
+Colocasia roots,100,gm,112
+Coriander leaves,100,gm,23
+Corn,100,gm,86
+Cucumber,100,gm,15
+Curry leaves,100,gm,108
+Dill leaves,100,gm,43
+Drumsticks,vegetables
+Eggplant,100,gm,25
+Elephant Yam,100,gm,128
+French Beans,100,gm,31
+Garlic,100,gm,133
+Ginger,100,gm,80
+Green chili,100,gm,40
+Green onion,100,gm,32
+Green peas,100,gm,81
+Ivy gourd,100,gm,18
+Jackfruit,100,gm,94
+Lemon,100,gm,29
+Mint leaves,100,gm,47
+Mushroom,100,gm,22
+Mustard leaves,100,gm,27
+Ladies finger,100,gm,33
+Onion,100,gm,72
+Plantain,100,gm,122
+Potato,100,gm,77
+Pumpkin,100,gm,26
+Radish,100,gm,18
+Ridge gourd,100,gm,56
+Shallot,100,gm,72
+Snake gourd,100,gm,15
+Sorrel leaves,100,gm,29
+Spinach,100,gm,23
+Sweet potato,100,gm,86
+Apple,100,gm,52
+Apricot,100,gm,48
+Avocado,100,gm,160
+Banana,100,gm,89
+Cantaloupe,100,gm,34
+Custard apple,100,gm,94
+Gooseberry,100,gm,44
+Grapes,100,gm,67
+Guava,100,gm,68
+Lychee,100,gm,66
+Mango,100,gm,60
+Raw Mango,100,gm,60
+Orange,100,gm,47
+Papaya,100,gm,45
+Pears,100,gm,57
+Pineapple,100,gm,50
+Pomegranate,100,gm,83
+Sapota,100,gm,124
+Sugar cane,100,gm,263
+Sweet lime,100,gm,43
+Almond,100,gm,600
+Betel nut,100,gm,342
+Cashew nut,100,gm,553
+Desiccated coconut,100,gm,400
+Dates,100,gm,282
+Dried date,100,gm,319
+Dried fig,100,gm,249
+Flax seed,100,gm,534
+Lotus seed,100,gm,89
+Peanut,100,gm,587
+Poppy seed,100,gm,525
+Pistachio,100,gm,572
+Raisin,100,gm,299
+Sesame seed,100,gm,631
+Watermelon seeds,100,gm,557
+Amaranth grain,100,gm,371
+Barley,100,gm,122
+Broken wheat,100,gm,360
+Barnyard millet,100,gm,300
+Finger millet,100,gm,328
+Rice,100,gm,130
+Puffed rice,100,gm,402
+Semolina,100,gm,360
+Tapioca,100,gm,130
+Green gram,100,gm,347
+Horse gram,100,gm,269
+Green peas,100,gm,81
+Black peas,100,gm,80
+White peas,100,gm,271
+Pigeon peas,100,gm,343
+Mustard Oil,100,gm,884
+SunflowerOil,100,gm,884
+Soybean Oil,100,gm,884
+Olive Oil,100,gm,884
+Rice Bran Oil,100,gm,884
+FlaxSeeds Oil,100,gm,884
+GroundNut Oil,100,gm,884
+Palm Oil,100,gm,884
+Sesame Oil,100,gm,884
+Almond Oil,100,gm,884
+Cashew Oil,100,gm,581
+Canola Oil,100,gm,884
+Butter,100,gm,717
+Margarine,100,gm,717
+Buttermilk,100,gm,40
+Instant Full Cream Milk Powder,100,gm,503
+Skimmed Milk Powder,100,gm,357
+Cream,100,gm,196
+Cheese,100,gm,368
+Condensed Milk,100,gm,328
+Yogurt,100,gm,59
+Chicken,100,gm,239
+Mutton,100,gm,294
+Prawns,100,gm,73
+Crab,100,gm,97
+Oyster,100,gm,199
+Katla,100,gm,111
+Rohu,100,gm,80
+Shark,100,gm,130
+Paneer,100,gm,242
